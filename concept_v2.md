@@ -38,7 +38,7 @@ An Operating System for Creators
 <a name="1.0-revised"></a>
 ## 1.0 Introduction: An Operating System for Creation
 
-This is not another productivity hack. This is a framework for systematically unlocking your creative potential and attracting serendipity. It's an operating system designed to run on a simple set of tools: **a way to capture thoughts, a place to do your work, time to think, and a channel to the world.**
+This is not another productivity hack. This is a framework for systematically unlocking your creative potential and attracting serendipity. It’s an operating system designed to run on a simple set of tools: **a way to capture thoughts, a place to do your work, time to think, and a channel to the world.**
 
 <a name="1.1-revised"></a>
 ### 1.1 What is LBEiP?
@@ -118,7 +118,7 @@ You don't just "create," you embark on **Quests**. A Quest is a focused, often t
 
 A Quest Leader learns to move between three conceptual spaces. These spaces may be distinct or may blend together, depending on your craft.
 *   **The Sanctuary (Inspiration & Thought):** This is the space for unstructured exploration. It's where you gather inspiration, ask "what if," and have ideas without judging them. It can be a walk in the woods, a sketchbook, or a deep conversation.
-*   **The Studio (The Craft):** This is where the work happens. You take inspiration and give it form. It's the keyboard, the canvas, the workbench, the code editor. It's the space of focused practice and creation.
+*   **The Studio (The Craft):** This is where the work happens. You take inspiration and give it form. It's the keyboard, the canvas, the workbench, the code editor. It’s the space of focused practice and creation.
 *   **The Stage (The Window & Connection):** This is your chosen channel to the world—your blog, GitHub, LinkedIn, Instagram, TikTok, newsletter. It's where you share glimpses of your journey and your work, connecting with your community.
 
 <a name="4.0-revised"></a>
@@ -226,7 +226,7 @@ The framework is a system where the process generates the outcomes. **Mastery** 
 
 The intention to "achieve freedom and make the world better" is your compass.
 *   **Freedom:** The creative autonomy to work on what you love, and the potential for financial freedom derived from a diverse set of opportunities, not a single gatekeeper.
-*   **A Better World:** By working in public, you lead by example. You contribute to a culture of collaboration, generosity, and lifelong learning. You prove that it's possible to build a career on authenticity and passion.
+*   **A Better World:** By working in public, you lead by example. You contribute to a culture of collaboration, generosity, and lifelong learning. You prove that it’s possible to build a career on authenticity and passion.
 
 <a name="7.3-revised"></a>
 ### 7.3 The Community of Creators: A Collective Synergy
@@ -236,7 +236,7 @@ When creators work with their windows open, they begin to see each other. They r
 <a name="8.0-revised"></a>
 ## 8.0 Conclusion: Your Quest Awaits
 
-The Learn_Build_Earn_in_Public framework is a commitment to a different way of creating. It's a belief in generosity, in the power of process, and in the profound idea that the best way to grow ourselves is to share the journey with others.
+The Learn_Build_Earn_in_Public framework is a commitment to a different way of creating. It’s a belief in generosity, in the power of process, and in the profound idea that the best way to grow ourselves is to share the journey with others.
 
 Your workshop is ready. The window is waiting.
 

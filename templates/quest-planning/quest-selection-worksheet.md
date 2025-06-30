@@ -1,12 +1,12 @@
 # Quest Selection Worksheet
 
-*Use this template to choose and plan your next Quest*
+*Use this template to choose and plan your next creative Quest*
 
 ---
 
 ## Part 1: Quest Brainstorming (10 minutes)
 
-**Instructions:** Write down 5-7 potential Quests. Don't filter yet—just capture ideas.
+**Instructions:** Write down 5-7 potential creative Quests. Don't filter yet—just capture ideas that excite you.
 
 **Potential Quest Ideas:**
 
@@ -26,21 +26,21 @@
 
 ### Criteria Definitions:
 
-**Relevance (1-5):** Does this address a critical uncertainty or opportunity in my primary domain?
-- 1 = Interesting but not directly relevant to my work
-- 5 = Directly addresses my biggest professional challenge
+**Relevance (1-5):** Does this address a creative challenge or opportunity important to your craft?
+- 1 = Interesting but not directly relevant to my creative goals
+- 5 = Directly addresses my biggest creative challenge or growth area
 
-**Curiosity (1-5):** Am I genuinely intrigued by this question? Is this a puzzle I *want* to solve?
-- 1 = Feels like work I should do
-- 5 = I'm genuinely excited and curious about this
+**Curiosity (1-5):** Am I genuinely intrigued by this creative exploration? Is this something I *want* to create?
+- 1 = Feels like something I should do
+- 5 = I'm genuinely excited and curious about this creative journey
 
-**Impact (North Star Filter) (1-5):** Will success in this Quest move me closer to freedom and a better world?
-- 1 = Purely tactical/operational benefit
-- 5 = Directly serves my North Star vision
+**Impact (North Star Filter) (1-5):** Will success in this Quest move me closer to creative freedom and contributing to a better world?
+- 1 = Purely personal/skill-building benefit
+- 5 = Directly serves my creative purpose and helps others
 
-**Scope (1-5):** Can I make meaningful progress and produce a "Build" artifact within 6-12 weeks?
+**Scope (1-5):** Can I make meaningful creative progress and produce something shareable within 6-12 weeks?
 - 1 = Would take 6+ months to complete
-- 5 = Perfect size for one focused cycle
+- 5 = Perfect size for one focused creative cycle
 
 ### Scoring Matrix:
 
@@ -63,13 +63,13 @@
 **Selected Quest:** _______________________________________
 
 ### Quest Statement
-*Write a 1-2 sentence description of what you want to explore/achieve*
+*Write a 1-2 sentence description of what you want to create/explore*
 
 _______________________________________
 _______________________________________
 
 ### Success Criteria
-*What would "success" look like for this Quest?*
+*What would "success" look like for this creative Quest?*
 
 **Primary Success Metrics:**
 - [ ] _______________________________________
@@ -80,12 +80,12 @@ _______________________________________
 - [ ] _______________________________________
 - [ ] _______________________________________
 
-### Build Artifact
+### Creative Artifact
 *What tangible thing will you create during this Quest?*
 
 **Primary Artifact:** _______________________________________
 
-**Format:** (e.g., framework, strategy document, model, thesis, checklist)
+**Format:** (e.g., blog series, app prototype, art collection, music EP, open source tool)
 _______________________________________
 
 **Audience:** (Who is this for?)
@@ -96,7 +96,7 @@ _______________________________________
 ## Part 4: Learning Plan (10 minutes)
 
 ### Key Questions to Explore
-*What are the 3-5 most important questions you need to answer?*
+*What are the 3-5 most important creative questions you want to explore?*
 
 1. _______________________________________
 2. _______________________________________
@@ -104,20 +104,20 @@ _______________________________________
 4. _______________________________________
 5. _______________________________________
 
-### Learning Sources
-*Where will you go to find answers?*
+### Learning & Inspiration Sources
+*Where will you go for inspiration and knowledge?*
 
-**People to Interview:**
-- _______________________________________
-- _______________________________________
-- _______________________________________
-
-**Research Sources:**
+**Creators to Connect With:**
 - _______________________________________
 - _______________________________________
 - _______________________________________
 
-**Experiments to Run:**
+**Learning Sources:**
+- _______________________________________
+- _______________________________________
+- _______________________________________
+
+**Creative Experiments to Try:**
 - _______________________________________
 - _______________________________________
 
@@ -126,14 +126,14 @@ _______________________________________
 ## Part 5: Public Narrative Planning (10 minutes)
 
 ### Declaration Post
-*How will you announce this Quest publicly?*
+*How will you announce this creative Quest publicly?*
 
 **Hook:** _______________________________________
-**Why this matters:** _______________________________________
+**Why this matters to you:** _______________________________________
 **What you'll share:** _______________________________________
 
 ### Weekly Sharing Plan
-*What will you share each week?*
+*What aspects of your creative process will you share each week?*
 
 **Week 1:** _______________________________________
 **Week 2:** _______________________________________
@@ -160,41 +160,41 @@ _______________________________________
 
 ## Part 7: Risk Assessment (5 minutes)
 
-### Potential Obstacles
-*What could prevent success?*
+### Potential Creative Obstacles
+*What could prevent creative success?*
 
 1. _______________________________________
 2. _______________________________________
 3. _______________________________________
 
-### Mitigation Strategies
-*How will you address these risks?*
+### Creative Strategies
+*How will you address these creative challenges?*
 
 1. _______________________________________
 2. _______________________________________
 3. _______________________________________
 
-### Confidentiality Check
-*Is there anything about this Quest that you cannot share publicly?*
+### Sharing Comfort Check
+*Is there anything about this Quest that you're not comfortable sharing publicly?*
 
-**Confidential Elements:**
+**Private Elements:**
 _______________________________________
 
-**How to Abstract:** (Share the "how" not the "what")
+**How to Share Appropriately:** (Share the process, not necessarily everything)
 _______________________________________
 
 ---
 
 ## ✅ Quest Readiness Checklist
 
-Before starting your Quest, confirm:
+Before starting your creative Quest, confirm:
 
 - [ ] I've scored this Quest highly on all four criteria
-- [ ] I have a clear success definition and artifact planned
-- [ ] I've identified my key learning sources
-- [ ] I have a public sharing plan that respects confidentiality
-- [ ] I've blocked time for the weekly rhythm
-- [ ] I'm genuinely excited to begin
+- [ ] I have a clear creative vision and artifact planned
+- [ ] I've identified my key inspiration and learning sources
+- [ ] I have a public sharing plan that feels authentic to me
+- [ ] I've set up my creative rhythm and blocked time
+- [ ] I'm genuinely excited to begin this creative journey
 
 ---
 
@@ -206,4 +206,4 @@ Before starting your Quest, confirm:
 
 **First Public Post:** _______________________________________
 
-*Now go begin your Quest using the [Weekly Rhythm Template](../weekly-rhythm-template.md)* 
+*Now go begin your creative Quest! Remember: your workshop is ready, the window is waiting.*
