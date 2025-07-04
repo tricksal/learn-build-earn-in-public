@@ -1,0 +1,145 @@
+/* Custom CSS for LBEiP brand colors and styling */
+
+:root {
+  --md-primary-fg-color: #ffffff;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #fb5e11;
+  --md-accent-bg-color: #fb5e11;
+  --md-text-color: #000000;
+  --md-text-link-color: #fb5e11;
+}
+
+/* Custom button styling */
+.md-button {
+  background-color: #fb5e11;
+  border-color: #fb5e11;
+  color: white;
+}
+
+.md-button:hover {
+  background-color: #e54d0a;
+  border-color: #e54d0a;
+}
+
+.md-button--primary {
+  background-color: #fb5e11;
+  border-color: #fb5e11;
+  color: white;
+}
+
+.md-button--primary:hover {
+  background-color: #e54d0a;
+  border-color: #e54d0a;
+}
+
+/* Custom link colors */
+a {
+  color: #fb5e11;
+}
+
+a:hover {
+  color: #e54d0a;
+}
+
+/* Navigation active states */
+.md-nav__link--active {
+  color: #fb5e11;
+}
+
+.md-nav__link:hover {
+  color: #fb5e11;
+}
+
+/* Search highlighting */
+.md-search-result__teaser mark {
+  background-color: #fb5e11;
+  color: white;
+}
+
+/* Custom hero section styling */
+.hero-section {
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+  padding: 3rem 0;
+  text-align: center;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  color: #6c757d;
+  margin-bottom: 2rem;
+}
+
+.hero-cta {
+  display: inline-block;
+  background-color: #fb5e11;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  margin: 0 8px;
+  transition: background-color 0.2s;
+}
+
+.hero-cta:hover {
+  background-color: #e54d0a;
+  color: white;
+  text-decoration: none;
+}
+
+/* Feature cards */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.feature-card {
+  background: white;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.feature-icon {
+  font-size: 2rem;
+  color: #fb5e11;
+  margin-bottom: 1rem;
+}
+
+.feature-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #000000;
+  margin-bottom: 0.5rem;
+}
+
+.feature-description {
+  color: #6c757d;
+  line-height: 1.6;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.1rem;
+  }
+  
+  .feature-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,95 @@
+site_name: Learn Build Earn in Public (LBEiP)
+site_description: An Operating System for Creators - A framework for systematically unlocking your creative potential and attracting serendipity
+site_author: LBEiP Framework
+site_url: https://tricksal.github.io/learn-build-earn-in-public/
+
+repo_name: tricksal/learn-build-earn-in-public
+repo_url: https://github.com/tricksal/learn-build-earn-in-public
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode (optional fallback)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.code.copy
+  
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tricksal/learn-build-earn-in-public
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/your-profile  # Update with actual LinkedIn
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - What is LBEiP?: getting-started/what-is-lbeip.md
+    - Quick Start Guide: quick-start.md
+    - Self Assessment: assessment.md
+    - Your First Quest: quest-zero.md
+  - Framework:
+    - Complete Framework: framework.md
+  - Examples:
+    - Writer's Quest: examples/writer-sci-fi-blog-series.md
+    - Developer's Quest: examples/developer-plant-identification-app.md
+    - Artist's Quest: examples/artist-urban-watercolor-series.md
+    - VC's Quest: examples/vc-ai-ethics-quest.md
+  - Templates & Tools:
+    - Quest Planning: templates/quest-planning.md
+    - LinkedIn Posts: templates/linkedin-posts.md
+    - Weekly Reflection: templates/reflection.md
+    - Prompts & Tools: prompts/index.md
+  - Community:
+    - Contributing: contributing.md
