@@ -32,7 +32,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/tricksal/learn-build-earn-in-public
     - icon: fontawesome/brands/linkedin
-      link: https://https://www.linkedin.com/in/arne-magold/
+      link: https://www.linkedin.com/in/arne-magold/
 
 markdown_extensions:
   - admonition
