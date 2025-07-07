@@ -10,31 +10,13 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: white
-      accent: deep orange
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Dark mode (optional fallback)
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: deep orange
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: slate
+    primary: black
+    accent: grey
   
   features:
-    - navigation.tabs
     - navigation.sections
-    - navigation.expand
-    - navigation.path
     - navigation.top
-    - search.highlight
-    - search.share
     - content.action.edit
     - content.code.copy
   
