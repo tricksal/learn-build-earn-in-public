@@ -1,0 +1,45 @@
+# Learn_Build_Earn_in_Public (LBEiP) Framework
+
+> An operating system for creators that transforms the solitary act of creation into a transparent, connected, and compounding process. LBEiP helps creators systematically unlock their creative potential through a cycle of Learn → Build → Earn (in public) → Repeat, using simple tools: a way to capture thoughts, a place to do work, time to think, and a channel to the world.
+
+The LBEiP framework is designed for creators in the broadest sense—writers, artists, musicians, engineers, coders, scientists, entrepreneurs, community builders, designers, makers, and craftspeople. Anyone who strives to invent, make, and bring things into existence can become a "Quest Leader" using this system.
+
+The framework centers around **Quests** (focused creative endeavors), **Three Spaces** (Sanctuary for inspiration, Studio for craft, Stage for connection), and a **Public Narrative Arc** (Declaration → Exploration → Construction → Revelation → Reflection). The ultimate goal is achieving creative freedom and contributing to a better world through transparent creative practice.
+
+Key concepts include the "Workshop with Window" metaphor—your private creative space with a window to share your process with the community—and the Five Achievements: Success, Network, Learnings, Insights, and Mastery.
+
+## Core Framework
+
+- [Complete LBEiP Framework](docs/framework.md): The full 8-section framework covering philosophy, concepts, process, and mastery
+- [Quick Start Guide](docs/quick-start.md): Get from zero to your first public post in 15 minutes
+- [Self-Assessment](docs/assessment.md): Diagnostic to understand your readiness and starting point
+- [Quest Zero Guide](docs/quest-zero.md): Step-by-step tutorial for your first Quest
+
+## Templates & Tools
+
+- [Quest Selection Worksheet](templates/quest-planning/quest-selection-worksheet.md): Comprehensive template for choosing and planning creative Quests
+- [LinkedIn Post Templates](templates/linkedin-posts/narrative-arc-templates.md): Ready-to-use templates for sharing your creative journey
+- [Weekly Review Template](templates/reflection/weekly-review-template.md): Structured reflection for continuous improvement
+- [Quest Planning Overview](docs/templates/quest-planning.md): Guide to using quest planning templates
+- [LinkedIn Posts Guide](docs/templates/linkedin-posts.md): How to share your creative process effectively
+- [Reflection Templates Guide](docs/templates/reflection.md): Framework for meaningful creative reflection
+
+## Examples & Case Studies
+
+- [Writer's Sci-Fi Blog Series](docs/examples/writer-sci-fi-blog-series.md): 8-week Quest creating a three-part blog series on AI in science fiction
+- [Developer's Plant ID App](docs/examples/developer-plant-identification-app.md): Building a mobile app prototype using LBEiP principles
+- [Artist's Urban Watercolor Series](docs/examples/artist-urban-watercolor-series.md): Creating a collection of cityscape paintings in public
+- [VC's AI Ethics Quest](docs/examples/vc-ai-ethics-quest.md): Venture capitalist exploring AI ethics through public research
+
+## Getting Started Resources
+
+- [What is LBEiP?](docs/getting-started/what-is-lbeip.md): Introduction to the framework and its core principles
+- [Quest Ideation Interview](prompts/quest-ideation-interview.md): Structured prompts for discovering your next creative Quest
+- [Prompts Overview](docs/prompts/index.md): Guide to using the framework's creative prompts
+
+## Optional
+
+- [Contributing Guidelines](docs/contributing.md): How to contribute to the LBEiP framework development
+- [GitHub Pages Setup](GITHUB_PAGES_SETUP.md): Technical documentation for website deployment
+- [MkDocs Configuration](mkdocs.yml): Site structure and navigation configuration
+- [Custom Stylesheets](docs/stylesheets/extra.css): Visual styling for the documentation site
